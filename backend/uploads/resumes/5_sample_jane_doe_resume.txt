@@ -1,0 +1,31 @@
+
+JANE DOE
+Senior Full Stack Engineer
+San Francisco, CA | (555) 789-0123 | jane@jobconnect.ai | github.com/janedoe-demo | linkedin.com/in/janedoe-demo
+
+PROFESSIONAL SUMMARY
+Highly accomplished Senior Full Stack Engineer with 5+ years of experience designing scalable web applications, RESTful microservices, and reactive frontend architectures. Proven track record of reducing latency by 40%, scaling applications to 10M+ users, and leading agile engineering teams.
+
+TECHNICAL SKILLS
+• Languages: JavaScript, TypeScript, Python, SQL, HTML5, CSS3, Bash
+• Frameworks & Libraries: React.js, Node.js, Express, Next.js, FastAPI, Flask, Tailwind CSS, Redux
+• Databases: PostgreSQL, MongoDB, Redis, SQLite
+• Cloud & DevOps: AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Git, GitHub Actions, Linux
+• Methodologies: System Design, REST APIs, Agile / Scrum, Unit Testing (Jest, PyTest)
+
+PROFESSIONAL EXPERIENCE
+Vanguard Tech | Senior Frontend Developer | San Francisco, CA | 2022 – Present
+• Spearheaded the complete overhaul of core SaaS dashboard using React.js and TypeScript, increasing user session engagement by 28%.
+• Architected reusable component library adopted across 4 distributed squads, reducing frontend feature delivery cycles by 35%.
+• Optimized Webpack build pipelines and code-splitting, cutting initial page load times by 45%.
+• Mentored 5 associate software engineers through bi-weekly pair programming and system design reviews.
+
+DevSphere Labs | Full Stack Software Engineer | San Francisco, CA | 2019 – 2022
+• Developed and deployed 12 high-throughput REST APIs in Python (FastAPI) and Node.js servicing over 15M daily requests.
+• Implemented automated CI/CD deployment pipelines using GitHub Actions and Docker, reducing production deployment rollbacks to under 1%.
+• Designed PostgreSQL schema migrations and integrated Redis caching, boosting database query performance by 50%.
+• Collaborated in an agile scrum team delivering bi-weekly customer feature releases.
+
+EDUCATION
+University of California, Berkeley
+Bachelor of Science in Computer Science | Graduated May 2019
